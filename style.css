@@ -55,6 +55,7 @@ header {
 
 .social-icons a {
   margin-right: 10px;
+  
 }
 
 header nav ul {
@@ -72,9 +73,9 @@ header nav ul li a {
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   margin-left: 20px;
-  font-size: 17px;
+  font-size: 18px;
   
 }
 
@@ -147,7 +148,7 @@ section {
 
 .about-me-info {
   background-color: #f7f7f7;
-  padding: 20px;
+  padding: 27px;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -159,7 +160,7 @@ section {
 }
 
 .about-me-info p {
-  font-size: 16px;
+  font-size: 18px;
   color: #060505;
   line-height: 1.5;
 }
@@ -231,8 +232,8 @@ section {
 }
 
 .education-item p {
-  font-size: 16px;
-  color: #777;
+  font-size: 17px;
+  color: #141414;
   line-height: 1.5;
   margin-bottom: 5px;
 }
@@ -271,14 +272,7 @@ section {
   padding-left: 50px;
 }
 
-.skill-item h3 {
-  font-size: 24px;
-  color: #333;
-  margin-bottom: 10px;
-}
-
 .skill-item ul {
-  list-style: none;
   padding: 0;
 }
 
@@ -349,6 +343,7 @@ section {
 }
 
 .contact-container p {
+  text-align: center;
   font-size: 18px;
   color: #333;
   margin-bottom: 10px;
